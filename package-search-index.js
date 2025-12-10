@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cr.ac.ucenfotec.solano.josue.bl.entities"},{"l":"cr.ac.ucenfotec.solano.josue.bl.logic"},{"l":"cr.ac.ucenfotec.solano.josue.dl"}];updateSearchResults();
